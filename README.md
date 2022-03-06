@@ -4,14 +4,14 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=oggy-ser.jpeg>
+<img src=oggy-ser.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/Amal-ser"><img title="Author" src="https://img.shields.io/badge/Author-Amal-ser/Amalser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Oggyser1"><img title="Author" src="https://img.shields.io/badge/Author-Oggyser1/Oggyser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it public
+Project created by <a href="https://github.com/Oggyser">Oggyser1</a> to make it public
     <br>
        | © |
         Reserved |
@@ -34,10 +34,10 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/Amalsir.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Oggyser1/Oggyser1.git)
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Oggyser1)
   
 ### The Hard Method
 ```js
@@ -62,7 +62,7 @@ $ node Amalser.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Amal-ser/Amalser">
+  <a href="httsp://github.com/Oggyser/Oggyser1">
     
 <a href="https://github.com/Amal-ser/followers">
 <img src="https://img.shields.io/github/repo-size/Amal-ser/Amalser?color=green&label=Repo%20total%20size&style=plastic">
